@@ -1,0 +1,12 @@
+\BOOKMARK [1][-]{section.1}{问题简述}{}% 1
+\BOOKMARK [1][-]{section.2}{BP神经网络}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{简介}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{算法介绍}{section.2}% 4
+\BOOKMARK [3][-]{subsubsection.2.2.1}{输入层}{subsection.2.2}% 5
+\BOOKMARK [3][-]{subsubsection.2.2.2}{隐含层}{subsection.2.2}% 6
+\BOOKMARK [3][-]{subsubsection.2.2.3}{输出层}{subsection.2.2}% 7
+\BOOKMARK [2][-]{subsection.2.3}{反馈与调节}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.4}{训练工作流程}{section.2}% 9
+\BOOKMARK [1][-]{section.3}{BP神经网络的实现}{}% 10
+\BOOKMARK [1][-]{section.4}{测试结果}{}% 11
+\BOOKMARK [1][-]{section.5}{个人感想}{}% 12
