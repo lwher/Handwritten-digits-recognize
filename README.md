@@ -1,1 +1,7 @@
-这是一个利用自己实现的BP神经网络来完成手写数字识别的小工程。
+This project use the following machine learning methods to implement handwritten digits recognization.
+
+DataSet: MNIST
+
+Algorithms:
+Logistic Regression
+BP Neural Network
