@@ -2,6 +2,4 @@ This project use the following machine learning methods to implement handwritten
 
 DataSet: MNIST
 
-Algorithms:
-Logistic Regression
-BP Neural Network
+Algorithms: Logistic Regression, BP Neural Network
